@@ -210,20 +210,20 @@ Repositori ini adalah submission dari Dicoding untuk kelas Menjadi Web Developer
 
 ## Submission 1️⃣: Katalog Restoran
 
-Anda dapat melihat dan mendownload source code dari submission 1 di [link ini](https://github.com/rifandani/menjadi-web-developer-expert/archive/refs/tags/v0.1.2.zip)
+Anda dapat melihat dan mendownload source code dari submission 1 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.0.zip)
 
 ## Submission 2️⃣: Katalog Restoran + PWA
 
-Anda dapat melihat dan mendownload source code dari submission 2 di [link ini](https://github.com/rifandani/menjadi-web-developer-expert/archive/refs/tags/v0.2.1.zip)
+Anda dapat melihat dan mendownload source code dari submission 2 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.1.zip)
 
 ## Submission 3️⃣: Katalog Restoran + PWA + Testing and Performance Optimized
 
-Anda dapat melihat dan mendownload source code dari submission 3 di [link ini](https://github.com/rifandani/menjadi-web-developer-expert/archive/refs/tags/v0.3.0.zip)
+Anda dapat melihat dan mendownload source code dari submission 3 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.2.zip)
 
 ---
 
-> Untuk melihat semua daftar releases, kunjungi [releases](https://github.com/rifandani/menjadi-web-developer-expert/releases)
+> Untuk melihat semua daftar releases, kunjungi [releases](https://github.com/Ardywsptr/AWSResto_Submission-3/releases)
 >
-> Jika ada pertanyaan atau issue, kunjungi [new issue](https://github.com/rifandani/menjadi-web-developer-expert/issues/new)
+> Jika ada pertanyaan atau issue, kunjungi [new issue](https://github.com/Ardywsptr/AWSResto_Submission-3/issues/new)
 
 Big Thanks for [Dicoding](https://www.dicoding.com/)
