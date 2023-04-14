@@ -32,7 +32,7 @@ Ketika anda klik nama restoran anda akan diarahkan ke halaman detail yang berisi
 Anda dapat menyimpan dan menghapus restoran favorit Anda dengan satu klik, restorarn favorit Anda akan ditampilkan pada halaman favorit.
 
 * **Cari Restoran Favorit**,
-Jangan khawatir ketika ada banyak restoran yang anda favoritkan dan ingin salah satunya dengan cepat, Anda dapat mencari nya hanya dengan mengetikan keyword nama restoran yang ingin anda cari.
+Jangan khawatir ketika ada banyak restoran yang anda favoritkan dan ingin mencari salah satunya dengan cepat, Anda dapat mencari nya hanya dengan mengetikan keyword nama restoran yang ingin anda cari.
 
 * **Responsibilitas Tampilan**,
 Tampilan web app sudah responsif dari berbagai ukuran layar mulai dari mobile, tablet, laptop ataupun dekstop.
@@ -234,9 +234,16 @@ Anda dapat melihat dan mendownload source code dari submission 2 di [link ini](h
 Anda dapat melihat dan mendownload source code dari submission 3 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/releases/tag/v1.2)
 
 
+<hr>
+<br clear="both">
+<br clear="both">
 
 > Untuk melihat semua daftar releases, kunjungi [releases](https://github.com/Ardywsptr/AWSResto_Submission-3/releases)
 >
 > Jika ada pertanyaan atau issue, kunjungi [new issue](https://github.com/Ardywsptr/AWSResto_Submission-3/issues/new)
+>
+>Jika dokumentasi ini bermanfaat mari berteman dengan menekan tombol follow pada [profile](https://github.com/Ardywsptr) ini ☺☺☺
+
+<br clear="both">
 
 Big Thanks for [Dicoding](https://www.dicoding.com/)
