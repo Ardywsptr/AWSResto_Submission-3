@@ -214,7 +214,7 @@ Anda dapat melihat dan mendownload source code dari submission 1 di [link ini]([
 
 ## Submission 2️⃣: Katalog Restoran + PWA
 
-Anda dapat melihat dan mendownload source code dari submission 2 di [link ini]([https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.1.zip](https://github.com/Ardywsptr/AWSResto_Submission-3/releases/tag/v1.1))
+Anda dapat melihat dan mendownload source code dari submission 2 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.1.zip)
 
 ## Submission 3️⃣: Katalog Restoran + PWA + Testing and Performance Optimized
 
