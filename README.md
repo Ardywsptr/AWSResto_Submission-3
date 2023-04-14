@@ -210,7 +210,7 @@ Repositori ini adalah submission dari Dicoding untuk kelas Menjadi Web Developer
 
 ## Submission 1️⃣: Katalog Restoran
 
-Anda dapat melihat dan mendownload source code dari submission 1 di [link ini]([https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.0.zip](https://github.com/Ardywsptr/AWSResto_Submission-3/releases/tag/v1.0))
+Anda dapat melihat dan mendownload source code dari submission 1 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.0.zip)
 
 ## Submission 2️⃣: Katalog Restoran + PWA
 
@@ -218,7 +218,7 @@ Anda dapat melihat dan mendownload source code dari submission 2 di [link ini](h
 
 ## Submission 3️⃣: Katalog Restoran + PWA + Testing and Performance Optimized
 
-Anda dapat melihat dan mendownload source code dari submission 3 di [link ini]([https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.2.zip](https://github.com/Ardywsptr/AWSResto_Submission-3/releases/tag/v1.2))
+Anda dapat melihat dan mendownload source code dari submission 3 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/archive/refs/tags/v1.2.zip)
 
 ---
 
