@@ -7,12 +7,14 @@
 ![GitHub watches](https://img.shields.io/github/stars/Ardywsptr/AWSResto_Submission-3?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ardywsptr/AWSResto_Submission-3)
 
-<h3>User Interface :</h3>
+<br clear="both">
+
+## User Interface :
 
 <br clear="both">
 
 <div align="center">
-<img src="https://i.postimg.cc/wjgZHJ1g/Minimalist-Website-Launch-Tablet-Phone-Mockup-Instagram-Post.png" alt"AWSResto" width="1000">
+<img src="https://i.postimg.cc/wjgZHJ1g/Minimalist-Website-Launch-Tablet-Phone-Mockup-Instagram-Post.png" alt"AWSResto" width="800">
 </div>
 
 <br clear="both">
@@ -47,6 +49,8 @@ Anda dapat meng-install aplikasi ini hanya dengan satu klik tanpa harus kerepota
 * **Tersedia Secara Offline**,
 Aplikasi dapat diakses dalam keadaan offline tanpa koneksi internet dan aset yang gagal dimuat (pastikan Anda telah memuat web minimal 1 kali sebelumnya).
 
+<br clear="both">
+
 ## Webpack bundle :
 
 Web app ini dibuat dengan menggunakan JavaScript *bundler* **Webpack** dengan berbagai teknologi yang di pakai, antara lain :
@@ -60,6 +64,8 @@ Web app ini dibuat dengan menggunakan JavaScript *bundler* **Webpack** dengan be
 7. *End To End Testing* menggunakan `codeceptjs`.
 8. *Code Quality* menggunakan `ESLint` sebagai linter ketika menuliskan kode JavaScript.
 9. *Dan lainnya yang ada pada berkas*`package.json`.
+
+<br clear="both">
 
 ## Development vs Build Production
 
@@ -92,7 +98,10 @@ Web app ini dibuat dengan menggunakan JavaScript *bundler* **Webpack** dengan be
 | `Split chunks`    | ❌          | ✔          |
 | `PWA`             | ❌          | ✔          |
 
+<br clear="both">
+
 ## Usage NPM
+
 *Untuk memulai, Install npm lalu jalankan beberapa perintah di bawah ini untuk memulainya, folder dist akan dibuat setelah itu.*
 
 1. Install NPM
@@ -131,6 +140,7 @@ Web app ini dibuat dengan menggunakan JavaScript *bundler* **Webpack** dengan be
 
    > Sebelum memulai server production sebaiknya dilakukan build dan testing terlebih dahulu.
 
+<br clear="both">
 
 ## Integration Testing
 
@@ -165,6 +175,8 @@ Test case like dan unlike restoran yang digunakan untuk melakukan *integration t
 - Alur positif dapat dilihat pada poin berangka.
 - Alur negatif dapat dilihat pada poin huruf.
 
+<br clear="both">
+
 ## End To End (E2E) Testing
 ### Memfavoritkan suatu restaurant
 
@@ -196,9 +208,10 @@ Test case like dan unlike restoran yang digunakan untuk melakukan *integration t
 12. *User* membuka halaman daftar favorit.
 13. *User* sekarang melihat bahwa daftar favorit restaurant kosong.
 
----
 
-# 📃 Keterangan
+<br clear="both">
+
+## 📃 Keterangan
 
 Repositori ini adalah submission dari Dicoding untuk kelas Menjadi Web Developer Expert. Kelas ini memiliki total 3 submission yang harus diselesaikan untuk mendapatkan sertifikat. Isi dari repositori ini merupakan bagian final yang mencakup submission ke 1 dan 2.
 
@@ -208,19 +221,19 @@ Repositori ini adalah submission dari Dicoding untuk kelas Menjadi Web Developer
 >
 > - Kode yang didapatkan dari sumber lain (website, buku, forum, GitHub, dan lain-lain) hanya digunakan sebagai referensi. Tingkat kesamaannya tidak boleh lebih dari 70%.
 
-## Submission 1️⃣: Katalog Restoran
+### Submission 1️⃣: Katalog Restoran
 
 Anda dapat melihat dan mendownload source code dari submission 1 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/releases/tag/v1.0)
 
-## Submission 2️⃣: Katalog Restoran + PWA
+### Submission 2️⃣: Katalog Restoran + PWA
 
 Anda dapat melihat dan mendownload source code dari submission 2 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/releases/tag/v1.1)
 
-## Submission 3️⃣: Katalog Restoran + PWA + Testing and Performance Optimized
+### Submission 3️⃣: Katalog Restoran + PWA + Testing and Performance Optimized
 
 Anda dapat melihat dan mendownload source code dari submission 3 di [link ini](https://github.com/Ardywsptr/AWSResto_Submission-3/releases/tag/v1.2)
 
----
+
 
 > Untuk melihat semua daftar releases, kunjungi [releases](https://github.com/Ardywsptr/AWSResto_Submission-3/releases)
 >
